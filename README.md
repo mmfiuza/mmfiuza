@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mmfiuza/mmfiuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an acoustical engineering student interested in simulations, low-level programming and digital signal processing.
 
-Here are some ideas to get you started:
+## Tools and skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://go-skill-icons.vercel.app/">
+        <img
+            src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,matlab,cuda,python,latex,vscode,git,blender,sketchup,wsl"
+        />
+    </a>
+</p>
