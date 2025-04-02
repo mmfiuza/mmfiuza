@@ -7,7 +7,7 @@ I'm an acoustical engineering student interested in simulations, low-level progr
 <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
         <img
-            src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,matlab,cuda,python,latex,vscode,git,blender,sketchup,wsl"
+            src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,matlab,cuda,latex,overleaf,python,vscode,wsl,git,blender,sketchup"
         />
     </a>
 </p>
