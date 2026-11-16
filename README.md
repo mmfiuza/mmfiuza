@@ -7,7 +7,7 @@ I'm an acoustic engineering student interested in numerical methods simulations,
 <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
         <img
-            src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,julia,matlab,latex,cuda,python,wsl,vscode,git,docker,blender"
+            src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,julia,matlab,latex,python,wsl,vscode,git,docker,blender"
         />
     </a>
 </p>
